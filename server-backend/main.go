@@ -1,4 +1,4 @@
-//golang-react-calorie-tracker
+// golang-react-calorie-tracker
 package main
 
 import (
